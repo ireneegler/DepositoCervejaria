@@ -1,0 +1,14 @@
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\bin\Debug\netcoreapp3.1\Deposito.exe
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\bin\Debug\netcoreapp3.1\Deposito.deps.json
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\bin\Debug\netcoreapp3.1\Deposito.runtimeconfig.json
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\bin\Debug\netcoreapp3.1\Deposito.runtimeconfig.dev.json
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\bin\Debug\netcoreapp3.1\Deposito.dll
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\bin\Debug\netcoreapp3.1\Deposito.pdb
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\obj\Debug\netcoreapp3.1\Deposito.csproj.AssemblyReference.cache
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\obj\Debug\netcoreapp3.1\Deposito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\obj\Debug\netcoreapp3.1\Deposito.AssemblyInfoInputs.cache
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\obj\Debug\netcoreapp3.1\Deposito.AssemblyInfo.cs
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\obj\Debug\netcoreapp3.1\Deposito.csproj.CoreCompileInputs.cache
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\obj\Debug\netcoreapp3.1\Deposito.dll
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\obj\Debug\netcoreapp3.1\Deposito.pdb
+C:\Users\Irene\Documents\Projetos C#\PROJETTOS GITHUB\Deposito\Deposito\Deposito\obj\Debug\netcoreapp3.1\Deposito.genruntimeconfig.cache
