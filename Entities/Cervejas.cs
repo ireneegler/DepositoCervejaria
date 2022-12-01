@@ -6,8 +6,8 @@ namespace Deposito.Entities
 {
     internal class Cervejas
     {
-        public int Tipos { get; set; }
-public OrderStatus Status { get; set; }
+        public double Quantidade { get; set; }
+public OrderStatus Tipos { get; set; }
 
 enum OrderStatus : int {
         Lager = 1,
