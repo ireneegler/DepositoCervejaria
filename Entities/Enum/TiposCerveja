@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Deposito.Entities
+namespace Deposito.Entities.Enum
 {
-    internal class Cervejas
+    internal enum TiposCervejas
     {
         public double Quantidade { get; set; }
 public OrderStatus Tipos { get; set; }
