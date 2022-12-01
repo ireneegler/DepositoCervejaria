@@ -1,14 +1,8 @@
 using System;
-using System.Collections.Generic;
-using System.Text;
+using Deposito.Entities;
 
 namespace Deposito.Entities.Enum
 {
-    internal enum TiposCervejas
-    {
-        public double Quantidade { get; set; }
-public OrderStatus Tipos { get; set; }
-
 enum OrderStatus : int {
         Lager = 1,
         Pilsen = 2,
@@ -16,5 +10,4 @@ enum OrderStatus : int {
         Escura = 4,
         ZeroAlcool = 5
     }
-}
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using Deposito.Entities.Enum;
 
 namespace Deposito
 {
@@ -7,8 +8,6 @@ namespace Deposito
     {
         static void Main(string[] args)
         {
-
-
             Console.WriteLine("Entre os dados do produto");
             Console.Write("Nome: ");
             string nome = Console.ReadLine();
