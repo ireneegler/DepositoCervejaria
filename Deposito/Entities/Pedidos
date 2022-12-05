@@ -1,5 +1,5 @@
 using System;
-using Deposito.Entities.Enum;
+using Deposito.Entities;
 
 namespace Deposito.Entities {
     class Pedidos {
